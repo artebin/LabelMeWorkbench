@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="annotation">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="filename" />
+        <xs:element ref="folder" />
+        <xs:element ref="source" />
+        <xs:element ref="object" maxOccurs="unbounded" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="azimuth">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="date">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="deleted">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="filename">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="folder">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="id">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="name">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="object">
+    <xs:complexType>
+      <xs:choice>
+        <xs:element ref="date" />
+        <xs:element ref="deleted" />
+        <xs:element ref="id" />
+        <xs:element ref="name" />
+        <xs:element ref="polygon" />
+        <xs:element ref="verified" />
+        <xs:element ref="viewpoint" />
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="polygon">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="username" />
+        <xs:element ref="pt" maxOccurs="unbounded" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="pt">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="x" />
+        <xs:element ref="y" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="source">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="sourceImage" />
+        <xs:element ref="sourceAnnotation" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="sourceAnnotation">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="sourceImage">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="username">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="verified">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="viewpoint">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="azimuth" minOccurs="0" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="x">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+  <xs:element name="y">
+    <xs:complexType mixed="true" />
+  </xs:element>
+
+</xs:schema>

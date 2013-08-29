@@ -1,0 +1,30 @@
+#########################################
+# LabelMeWorkbench system configuration #
+#########################################
+
+#LabelMe images path
+LabelMeImagesPath=/home/nicolas/datasets/LabelMe-jul2009/database/images
+
+#LabelMe annotations path
+LabelMeAnnotationsPath=/home/nicolas/datasets/LabelMe-jul2009/database/annotations
+
+#dbxml install/lib path
+DbxmlInstallLibPath=/home/nicolas/apps/dbxml/dbxml-2.5.16/install/lib
+
+#LabelMe Lucene index with KeywordAnalyzer
+LabelMeLuceneIndex_KeywordAnalyzerPath=/home/nicolas/datasets/LabelMe-jul2009/LabelMeLuceneIndex-KeywordAnalyzer
+
+#LabelMe Lucene index with WhitespaceAnalyzer
+LabelMeLuceneIndex_WhitespaceAnalyzerPath=/home/nicolas/datasets/LabelMe-jul2009/LabelMeLuceneIndex-WhitespaceAnalyzer
+
+#LabelMe dbxml index
+LabelMeDbxmlIndexPath=/home/nicolas/datasets/LabelMe-jul2009/LabelMeDBXMLIndex-1
+
+#number of results per page in the Galatee browser
+NumOfResultsPerPage=1024
+
+#log directories for Lucene and DBXML searchers
+Lucene_log_directory=./log_lucene
+DBXML_log_directory=./log_dbxml
+
+Write_logs=false

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <!-- annotation -->
+	<xs:element name="annotation">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="filename" />
+				<xs:element ref="folder" />
+				<xs:element ref="source" />
+				<xs:element ref="object" maxOccurs="unbounded" />
+				<xs:element ref="kbannotation" maxOccurs="unbounded" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<!-- azimuth -->
+	<xs:element name="azimuth">
+		<xs:complexType mixed="true" />
+	</xs:element>
+	
+	<!-- date -->
+	<xs:element name="date">
+		<xs:complexType mixed="true" />
+	</xs:element>
+	
+	<!-- deleted -->
+	<xs:element name="deleted">
+		<xs:complexType mixed="true" />
+	</xs:element>
+	
+	<!-- filename -->
+	<xs:element name="filename">
+		<xs:complexType mixed="true" />
+	</xs:element>
+	
+	<!-- folder -->
+	<xs:element name="folder">
+		<xs:complexType mixed="true" />
+	</xs:element>
+	
+	<!-- id -->
+	<xs:element name="id">
+		<xs:complexType mixed="true" />
+	</xs:element>
+	
+	<!-- name -->
+	<xs:element name="name">
+		<xs:complexType mixed="true" />
+	</xs:element>
+	
+	<!-- object -->
+	<xs:element name="object">
+		<xs:complexType>
+			<xs:choice>
+				<xs:element ref="date" />
+				<xs:element ref="deleted" />
+				<xs:element ref="id" />
+				<xs:element ref="name" />
+				<xs:element ref="polygon" />
+				<xs:element ref="verified" />
+				<xs:element ref="viewpoint" />
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+	
+	<!-- keyword-based annotation -->
+	<xs:element name="kbannotation">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="id" type="xs:string" />
+				<xs:choice maxOccurs="unbounded">
+           
+         <!-- keyword -->
+					<xs:element name="keyword">
+						<xs:complexType mixed="true" />
+					</xs:element>
+         
+         <!-- WordNet sense-tagged keyword -->
+					<xs:element name="wnstkeyword">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="wordForm" type="xs:string" />
+								<xs:element name="synsetType" type="xs:string" />
+								<xs:element name="id" type="xs:string" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<!-- polygon -->
+	<xs:element name="polygon">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="username" />
+				<xs:element ref="pt" maxOccurs="unbounded" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<!-- pt -->
+	<xs:element name="pt">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="x" />
+				<xs:element ref="y" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<!--  source -->
+	<xs:element name="source">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="sourceImage" />
+				<xs:element ref="sourceAnnotation" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<!-- sourceAnnotation -->
+	<xs:element name="sourceAnnotation">
+		<xs:complexType mixed="true" />
+	</xs:element>
+	
+	<!-- sourceImage -->
+	<xs:element name="sourceImage">
+		<xs:complexType mixed="true" />
+	</xs:element>
+	
+	<!-- username -->
+	<xs:element name="username">
+		<xs:complexType mixed="true" />
+	</xs:element>
+	
+	<!-- verified -->
+	<xs:element name="verified">
+		<xs:complexType mixed="true" />
+	</xs:element>
+	
+	<!-- viewpoint -->
+	<xs:element name="viewpoint">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="azimuth" minOccurs="0" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<!-- x -->
+	<xs:element name="x">
+		<xs:complexType mixed="true" />
+	</xs:element>
+	
+	<!-- y -->
+	<xs:element name="y">
+		<xs:complexType mixed="true" />
+	</xs:element>
+</xs:schema>

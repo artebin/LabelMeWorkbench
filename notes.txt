@@ -1,0 +1,17 @@
+Sémantisation des annotations LabelMe:
+
+	1. détection de la différence bounding polygon sur deux polygon dans la même
+	image => un object peut être annoté deux fois par des utilisateurs 
+	différents dans LabelMe, on se retrouve avec deux bounding polygons qui sont 
+	très proches pour le même objet.
+	Il faudrait faire une mesure de similarité des polygones qui soient 
+	sémantico-visuelle pour estimé si les deux polygones détermine la même 
+	chose pour nettoyer wordnet.
+	
+	2. il faut faire attention que il peut y avoir plusieurs fois le keyword
+	'car' par exemple parce qu'il y a plusieurs voitures sur l'image, dans ce cas
+	pour la désambiguisation avec le SSI, je ne dois pas prendre l'annotation
+	brute venant de LabelMe, mais une annotation nettoyée, un ensemble sans 
+	les doublons.
+	
+	3. 

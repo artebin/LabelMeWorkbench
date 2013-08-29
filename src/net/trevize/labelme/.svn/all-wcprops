@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/LabelMeWorkbench/!svn/ver/73/trunk/src/net/trevize/labelme
+END
+LabelMeCleanerNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/LabelMeWorkbench/!svn/ver/71/trunk/src/net/trevize/labelme/LabelMeCleanerNormalizer.java
+END
+LabelMeLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/LabelMeWorkbench/!svn/ver/73/trunk/src/net/trevize/labelme/LabelMeLogger.java
+END
+LabelMeResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/LabelMeWorkbench/!svn/ver/71/trunk/src/net/trevize/labelme/LabelMeResults.java
+END
+LabelMeWorkbenchProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/LabelMeWorkbench/!svn/ver/62/trunk/src/net/trevize/labelme/LabelMeWorkbenchProperties.java
+END
+LabelMeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/LabelMeWorkbench/!svn/ver/42/trunk/src/net/trevize/labelme/LabelMeUtils.java
+END
+LabelMeIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/LabelMeWorkbench/!svn/ver/50/trunk/src/net/trevize/labelme/LabelMeIndexer.java
+END
+LabelMeSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/LabelMeWorkbench/!svn/ver/2/trunk/src/net/trevize/labelme/LabelMeSearcher.java
+END

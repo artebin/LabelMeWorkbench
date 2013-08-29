@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/LabelMeWorkbench/!svn/ver/67/trunk/src/net/trevize/labelme/stat
+END
+VisualObjectCollocationExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/LabelMeWorkbench/!svn/ver/67/trunk/src/net/trevize/labelme/stat/VisualObjectCollocationExtractor.java
+END
+SingleAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/LabelMeWorkbench/!svn/ver/67/trunk/src/net/trevize/labelme/stat/SingleAnnotation.java
+END
+SingleAnnotationComparatorByNbrDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/LabelMeWorkbench/!svn/ver/67/trunk/src/net/trevize/labelme/stat/SingleAnnotationComparatorByNbrDocument.java
+END
+AnnotationsListsPerDirectoryExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/LabelMeWorkbench/!svn/ver/67/trunk/src/net/trevize/labelme/stat/AnnotationsListsPerDirectoryExtractor.java
+END
+SingleAnnotationComparatorByMultiplicity.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/LabelMeWorkbench/!svn/ver/67/trunk/src/net/trevize/labelme/stat/SingleAnnotationComparatorByMultiplicity.java
+END
+AnnotationsListExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/LabelMeWorkbench/!svn/ver/67/trunk/src/net/trevize/labelme/stat/AnnotationsListExtractor.java
+END

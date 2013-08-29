@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/LabelMeWorkbench/!svn/ver/29/trunk/lib/jai
+END
+jai_codec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/LabelMeWorkbench/!svn/ver/29/trunk/lib/jai/jai_codec.jar
+END
+jai_core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/LabelMeWorkbench/!svn/ver/29/trunk/lib/jai/jai_core.jar
+END
+mlibwrapper_jai.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/LabelMeWorkbench/!svn/ver/29/trunk/lib/jai/mlibwrapper_jai.jar
+END

@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"
+	contentScriptType="text/ecmascript" width="2560" zoomAndPan="magnify"
+	contentStyleType="text/css" height="1920" preserveAspectRatio="xMidYMid meet"
+	version="1.0">
+	<image x="0" y="0" width="2560" xmlns:xlink="http://www.w3.org/1999/xlink"
+		xlink:href="/home/nicolas/MOntoMatch/MOntoMatch_experiment_6/all/05june05_static_street_boston/p1010738.jpg"
+		xlink:type="simple" xlink:actuate="onLoad" height="1920" id="GROUP_ID_IMAGE"
+		preserveAspectRatio="xMidYMid meet" xlink:show="embed" />
+	<g id="GROUP_ID_SYMBOLS">
+		<g id="car occluded">
+			<g id="car occluded0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1710,1132 1718,1124 1741,1127 1743,1132 1733,1140" />
+			</g>
+			<g id="car occluded0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1710,1124 1710,1139 1742,1139 1742,1124" />
+			</g>
+			<g id="car occluded1">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1759,1134 1741,1134 1735,1144" />
+			</g>
+			<g id="car occluded1_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1735,1134 1735,1143 1758,1143 1758,1134" />
+			</g>
+			<g id="car occluded2">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1518,1174 1528,1154 1498,1155 1505,1162 1505,1162" />
+			</g>
+			<g id="car occluded2_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1498,1154 1498,1173 1527,1173 1527,1154" />
+			</g>
+			<g id="car occluded3">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1506,1178 1462,1185 1442,1185 1442,1172 1458,1160 1481,1159 1496,1160" />
+			</g>
+			<g id="car occluded3_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1442,1159 1442,1184 1505,1184 1505,1159" />
+			</g>
+			<g id="car occluded4">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1341,1167 1369,1159 1400,1159 1417,1159 1430,1170 1438,1182 1428,1190 1402,1207 1379,1236 1366,1248 1352,1243 1344,1243 1339,1255 1326,1250 1324,1228 1324,1200 1332,1187" />
+			</g>
+			<g id="car occluded4_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1324,1159 1324,1254 1437,1254 1437,1159" />
+			</g>
+		</g>
+		<g id="car" />
+		<g id="plant">
+			<g id="plant0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1983,1139 1980,1114 1993,1116 2009,1114 2019,1102 2028,1112 2033,1117 2026,1145 2038,1152 2038,1180 2038,1210 2023,1208 2006,1212 1990,1215 1983,1200 1978,1188 1978,1177 1973,1169 1980,1164 1985,1134 1985,1134" />
+			</g>
+			<g id="plant0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1973,1102 1973,1214 2037,1214 2037,1102" />
+			</g>
+		</g>
+		<g id="wheel">
+			<g id="wheel0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1322,1445 1331,1465 1341,1473 1362,1473 1372,1468 1380,1455 1384,1428 1324,1425" />
+			</g>
+			<g id="wheel0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1322,1425 1322,1472 1383,1472 1383,1425" />
+			</g>
+			<g id="wheel1">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1629,1480 1658,1485 1673,1478 1683,1455 1687,1430 1683,1400 1683,1382 1677,1372 1667,1405 1660,1425 1630,1432 1625,1437 1625,1460" />
+			</g>
+			<g id="wheel1_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1625,1372 1625,1484 1686,1484 1686,1372" />
+			</g>
+			<g id="wheel2">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="962,1303 970,1283 982,1271 995,1283 998,1293 998,1316 993,1336 978,1344 960,1344 955,1337 952,1327" />
+			</g>
+			<g id="wheel2_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="952,1271 952,1343 997,1343 997,1271" />
+			</g>
+			<g id="wheel3">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1079,1281 1086,1268 1099,1266 1104,1273 1101,1304 1096,1313 1081,1322 1069,1321 1068,1311 1069,1296" />
+			</g>
+			<g id="wheel3_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1068,1266 1068,1321 1103,1321 1103,1266" />
+			</g>
+		</g>
+		<g id="car window" />
+		<g id="door">
+			<g id="door0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="245,982 289,980 299,1344 252,1346" />
+			</g>
+			<g id="door0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="245,980 245,1345 298,1345 298,980" />
+			</g>
+			<g id="door1">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1147,1078 1160,1078 1165,1206 1153,1207" />
+			</g>
+			<g id="door1_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1147,1078 1147,1206 1164,1206 1164,1078" />
+			</g>
+			<g id="door2">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1185,1202 1193,1193 1198,1180 1193,1081 1179,1081" />
+			</g>
+			<g id="door2_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1179,1081 1179,1201 1197,1201 1197,1081" />
+			</g>
+		</g>
+		<g id="stone">
+			<g id="stone0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="2359,1640 2324,1329 2318,1266 2214,1275 2195,1283 2225,1590 2252,1651" />
+			</g>
+			<g id="stone0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="2195,1266 2195,1650 2358,1650 2358,1266" />
+			</g>
+		</g>
+		<g id="road">
+			<g id="road0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="2,1918 2,1498 851,1341 1311,1258 1223,1238 1327,1218 1375,1238 1369,1258 1337,1289 1313,1354 1303,1366 1309,1418 1322,1423 1655,1443 1774,1266 1847,1172 1854,1180 1609,1615 1604,1625 1592,1687 1620,1733 1711,1768 1802,1804 1918,1816 2561,1849 2561,1920" />
+			</g>
+			<g id="road0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="2,1172 2,1919 2560,1919 2560,1172" />
+			</g>
+		</g>
+		<g id="air conditioner" />
+		<g id="car side occluded">
+			<g id="car side occluded0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1773,1126 1807,1126 1819,1129 1821,1139 1827,1170 1821,1165 1821,1165 1804,1147 1783,1144 1758,1140" />
+			</g>
+			<g id="car side occluded0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1758,1126 1758,1169 1826,1169 1826,1126" />
+			</g>
+			<g id="car side occluded1">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1735,1157 1745,1144 1771,1145 1801,1149 1812,1160 1822,1174 1829,1193 1832,1212 1827,1228 1812,1222 1809,1210 1801,1185 1786,1164 1763,1162" />
+			</g>
+			<g id="car side occluded1_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1735,1144 1735,1227 1831,1227 1831,1144" />
+			</g>
+			<g id="car side occluded2">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1748,1190 1736,1162 1774,1162 1788,1162 1798,1187 1814,1212 1812,1243 1807,1266 1794,1276 1791,1261 1768,1255 1766,1228 1756,1213" />
+			</g>
+			<g id="car side occluded2_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1736,1162 1736,1275 1813,1275 1813,1162" />
+			</g>
+			<g id="car side occluded3">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1582,1129 1637,1129 1710,1134 1735,1147 1746,1185 1761,1226 1768,1251 1769,1276 1769,1304 1768,1331 1753,1337 1745,1326 1733,1288 1745,1281 1743,1266 1735,1258 1718,1255 1700,1260 1695,1238 1688,1225 1667,1207 1610,1188 1524,1185 1510,1182 1523,1165 1533,1147 1541,1135 1559,1132" />
+			</g>
+			<g id="car side occluded3_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1510,1129 1510,1336 1768,1336 1768,1129" />
+			</g>
+		</g>
+		<g id="mirror">
+			<g id="mirror0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1703,1278 1736,1274 1735,1261 1720,1256 1706,1260" />
+			</g>
+			<g id="mirror0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1703,1256 1703,1277 1735,1277 1735,1256" />
+			</g>
+			<g id="mirror1">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1776,1200 1774,1178 1753,1182 1748,1195 1740,1200 1753,1202 1753,1202" />
+			</g>
+			<g id="mirror1_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1740,1178 1740,1201 1775,1201 1775,1178" />
+			</g>
+			<g id="mirror2">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1046,1238 1044,1222 1068,1222 1069,1228 1069,1228" />
+			</g>
+			<g id="mirror2_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1044,1222 1044,1237 1068,1237 1068,1222" />
+			</g>
+		</g>
+		<g id="license plate">
+			<g id="license plate0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1437,1318 1434,1356 1504,1357 1504,1322" />
+			</g>
+			<g id="license plate0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1434,1318 1434,1356 1503,1356 1503,1318" />
+			</g>
+			<g id="license plate1">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="830,1264 830,1287 867,1285 867,1263" />
+			</g>
+			<g id="license plate1_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="830,1263 830,1286 866,1286 866,1263" />
+			</g>
+			<g id="license plate2">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1377,1205 1377,1192 1356,1192 1354,1208" />
+			</g>
+			<g id="license plate2_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1354,1192 1354,1207 1376,1207 1376,1192" />
+			</g>
+		</g>
+		<g id="sky">
+			<g id="sky0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1378,6 2030,12 2024,219 2042,256 2097,250 2121,384 2036,384 2036,683 1969,695 1914,695 1822,756 1774,835 1707,884 1585,817 1469,658 1359,610 1365,695 1250,664 1122,597 1030,634 829,457 1000,402 926,305 890,177 914,91 957,18 1006,12" />
+			</g>
+			<g id="sky0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="829,6 829,883 2120,883 2120,6" />
+			</g>
+		</g>
+		<g id="tree">
+			<g id="tree0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="162,1407 206,954 536,747 888,892 1046,620 813,453 1099,409 941,259 1033,184 910,114 1170,83 1156,13 4,4 4,633 131,932 105,1425" />
+			</g>
+			<g id="tree0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="4,4 4,1424 1169,1424 1169,4" />
+			</g>
+			<g id="tree1">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="2507,1286 2328,1301 2088,1273 2106,1175 2048,1144 2069,1067 1983,934 2038,875 1989,693 2066,681 2085,610 2174,598 2060,465 2196,410 2350,363 2560,404 2560,1289" />
+			</g>
+			<g id="tree1_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1983,363 1983,1300 2559,1300 2559,363" />
+			</g>
+		</g>
+		<g id="buildings">
+			<g id="buildings0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1310,1219 1207,1237 1103,1250 1067,1207 975,1170 933,1164 835,1195 774,1262 768,866 902,896 951,853 1085,926 1213,1024 1329,1042 1457,1061 1536,1073 1591,1097 1530,1140 1457,1164" />
+			</g>
+			<g id="buildings0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="768,853 768,1261 1590,1261 1590,853" />
+			</g>
+			<g id="buildings1">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="2557,2 2019,2 2029,227 2059,250 2107,253 2105,262 2105,262 2094,263 2092,295 2109,311 2110,369 2031,377 2039,722 2001,708 2003,642 1966,647 1971,816 1912,838 1930,867 1937,1030 1898,1049 1885,1169 1933,1180 1976,1207 1996,1245 1991,1190 2049,1187 2066,1291 2559,1286" />
+			</g>
+			<g id="buildings1_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1885,2 1885,1290 2558,1290 2558,2" />
+			</g>
+		</g>
+		<g id="car region" />
+		<g id="door occluded">
+			<g id="door occluded0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1360,1125 1375,1127 1374,1158 1364,1159" />
+			</g>
+			<g id="door occluded0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1360,1125 1360,1158 1374,1158 1374,1125" />
+			</g>
+		</g>
+		<g id="air conditioning">
+			<g id="air conditioning0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="2373,181 2362,85 2376,58 2549,30 2546,168" />
+			</g>
+			<g id="air conditioning0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="2362,30 2362,180 2548,180 2548,30" />
+			</g>
+			<g id="air conditioning1">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="842,1083 842,1106 878,1106 878,1081" />
+			</g>
+			<g id="air conditioning1_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="842,1081 842,1105 877,1105 877,1081" />
+			</g>
+		</g>
+		<g id="tail light">
+			<g id="tail light0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1562,1351 1634,1354 1655,1346 1640,1319 1625,1313 1574,1309 1541,1322 1506,1321 1508,1349" />
+			</g>
+			<g id="tail light0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1506,1309 1506,1353 1654,1353 1654,1309" />
+			</g>
+			<g id="tail light1">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1395,1341 1430,1344 1430,1318 1392,1318 1370,1301 1327,1299 1322,1337 1351,1341" />
+			</g>
+			<g id="tail light1_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1322,1299 1322,1343 1429,1343 1429,1299" />
+			</g>
+			<g id="tail light2">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1779,1230 1783,1207 1801,1208 1802,1228 1801,1236" />
+			</g>
+			<g id="tail light2_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1779,1207 1779,1235 1801,1235 1801,1207" />
+			</g>
+			<g id="tail light3">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="892,1260 916,1262 936,1258 946,1258 939,1237 914,1241 900,1242" />
+			</g>
+			<g id="tail light3_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="892,1237 892,1261 945,1261 945,1237" />
+			</g>
+		</g>
+		<g id="car rear" />
+		<g id="building">
+			<g id="building0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="2,1418 749,1306 749,825 592,713 197,631 126,407 2,336" />
+			</g>
+			<g id="building0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="2,336 2,1417 748,1417 748,336" />
+			</g>
+		</g>
+		<g id="wire">
+			<g id="wire0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="2329,192 1983,222 1439,258 662,297 511,302 27,302 14,305 566,299 566,299 939,277 939,277 1058,277 1058,277 1873,220 1873,220 2151,195 2280,192 2280,192 2392,181" />
+			</g>
+			<g id="wire0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="14,181 14,304 2391,304 2391,181" />
+			</g>
+			<g id="wire1">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="2491,88 2557,80 2557,66 2129,124 1535,187 824,261 648,277 404,297 8,316 678,275 678,275 989,247 989,247" />
+			</g>
+			<g id="wire1_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="8,66 8,315 2556,315 2556,66" />
+			</g>
+			<g id="wire2">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="46,172 223,164 407,144 612,124 814,99 970,78 1385,35 1645,3 1556,3 1284,31 1119,53 917,71 604,108 392,132 154,154 10,161 12,174" />
+			</g>
+			<g id="wire2_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="10,3 10,173 1644,173 1644,3" />
+			</g>
+		</g>
+		<g id="building occluded">
+			<g id="building occluded0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="477,142 525,154 568,180 543,202 440,207 420,180 440,141" />
+			</g>
+			<g id="building occluded0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="420,141 420,206 567,206 567,141" />
+			</g>
+		</g>
+		<g id="manhole">
+			<g id="manhole0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1787,1507 1806,1513 1838,1514 1889,1511 1921,1506 1934,1497 1906,1492 1855,1491 1812,1497" />
+			</g>
+			<g id="manhole0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1787,1491 1787,1513 1933,1513 1933,1491" />
+			</g>
+			<g id="manhole1">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1510,1558 1531,1531 1645,1538 1632,1572" />
+			</g>
+			<g id="manhole1_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1510,1531 1510,1571 1644,1571 1644,1531" />
+			</g>
+		</g>
+		<g id="steps">
+			<g id="steps0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1148,1212 1134,1250 1197,1244 1194,1211" />
+			</g>
+			<g id="steps0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1134,1211 1134,1249 1196,1249 1196,1211" />
+			</g>
+		</g>
+		<g id="winow">
+			<g id="winow0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1604,1276 1627,1276 1634,1266 1625,1213 1506,1207 1420,1203 1412,1207 1384,1236 1370,1260 1404,1266" />
+			</g>
+			<g id="winow0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1370,1203 1370,1275 1633,1275 1633,1203" />
+			</g>
+		</g>
+		<g id="sign">
+			<g id="sign0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1782,971 1789,1033 1859,1026 1855,968" />
+			</g>
+			<g id="sign0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1782,968 1782,1032 1858,1032 1858,968" />
+			</g>
+			<g id="sign1">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="803,1063 864,1063 862,1014 804,1012" />
+			</g>
+			<g id="sign1_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="803,1012 803,1062 863,1062 863,1012" />
+			</g>
+			<g id="sign2">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1842,1044 1879,1044 1879,1074 1860,1076 1872,1205 1860,1079 1860,1079 1842,1074" />
+			</g>
+			<g id="sign2_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1842,1044 1842,1204 1878,1204 1878,1044" />
+			</g>
+			<g id="sign3">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1452,1107 1452,1084 1480,1084 1478,1104 1468,1104 1471,1157" />
+			</g>
+			<g id="sign3_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1452,1084 1452,1156 1479,1156 1479,1084" />
+			</g>
+			<g id="sign4">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1236,1098 1246,1099 1250,1227 1248,1099 1256,1099 1253,1081 1235,1081" />
+			</g>
+			<g id="sign4_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1235,1081 1235,1226 1255,1226 1255,1081" />
+			</g>
+		</g>
+		<g id="fence">
+			<g id="fence0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="2542,1542 2548,1286 2206,1298 2060,1298 2048,1189 1993,1195 2036,1573 2182,1573 2200,1573 2231,1652 2542,1658" />
+			</g>
+			<g id="fence0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1993,1189 1993,1657 2547,1657 2547,1189" />
+			</g>
+		</g>
+		<g id="window">
+			<g id="window0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="43,1218 136,1209 131,976 35,972" />
+			</g>
+			<g id="window0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="35,972 35,1217 135,1217 135,972" />
+			</g>
+			<g id="window1">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="389,985 398,1202 458,1199 455,997" />
+			</g>
+			<g id="window1_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="389,985 389,1201 457,1201 457,985" />
+			</g>
+			<g id="window2">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="497,991 502,1199 560,1196 553,994" />
+			</g>
+			<g id="window2_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="497,991 497,1198 559,1198 559,991" />
+			</g>
+			<g id="window3">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="660,1005 668,1196 714,1195 703,1012" />
+			</g>
+			<g id="window3_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="660,1005 660,1195 713,1195 713,1005" />
+			</g>
+			<g id="window4">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1064,1058 1070,1175 1093,1172 1086,1062" />
+			</g>
+			<g id="window4_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1064,1058 1064,1174 1092,1174 1092,1058" />
+			</g>
+			<g id="window5">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1108,1171 1128,1170 1122,1066 1103,1065" />
+			</g>
+			<g id="window5_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1103,1065 1103,1170 1127,1170 1127,1065" />
+			</g>
+			<g id="window6">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="650,895 697,905 689,799 654,786" />
+			</g>
+			<g id="window6_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="650,786 650,904 696,904 696,786" />
+			</g>
+			<g id="window7">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="506,851 556,862 551,755 503,746" />
+			</g>
+			<g id="window7_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="503,746 503,861 555,861 555,746" />
+			</g>
+			<g id="window8">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1668,1284 1642,1213 1650,1203 1678,1260 1688,1283" />
+			</g>
+			<g id="window8_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1642,1203 1642,1283 1687,1283 1687,1203" />
+			</g>
+			<g id="window9">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1698,1278 1690,1283 1662,1220 1692,1243" />
+			</g>
+			<g id="window9_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1662,1220 1662,1282 1697,1282 1697,1220" />
+			</g>
+			<g id="window10">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="904,1238 919,1238 907,1205 877,1198 813,1205 790,1250 844,1250" />
+			</g>
+			<g id="window10_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="790,1198 790,1249 918,1249 918,1198" />
+			</g>
+			<g id="window11">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="945,1235 930,1195 970,1193 982,1235" />
+			</g>
+			<g id="window11_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="930,1193 930,1234 981,1234 981,1193" />
+			</g>
+			<g id="window12">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1015,1235 985,1236 975,1192 991,1190" />
+			</g>
+			<g id="window12_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="975,1190 975,1235 1014,1235 1014,1190" />
+			</g>
+			<g id="window13">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1034,1233 1016,1235 1000,1193 1023,1200 1033,1213" />
+			</g>
+			<g id="window13_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1000,1193 1000,1234 1033,1234 1033,1193" />
+			</g>
+		</g>
+		<g id="car side">
+			<g id="car side0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1524,1185 1622,1190 1649,1198 1670,1210 1688,1231 1698,1260 1708,1255 1726,1255 1741,1266 1741,1281 1728,1291 1736,1309 1741,1341 1740,1364 1743,1377 1735,1400 1725,1410 1720,1392 1690,1409 1690,1432 1682,1463 1677,1481 1662,1488 1642,1486 1629,1485 1624,1455 1624,1435 1584,1433 1480,1428 1405,1425 1385,1425 1382,1458 1374,1470 1347,1480 1332,1471 1327,1462 1322,1453 1321,1442 1322,1428 1322,1425 1306,1420 1303,1399 1308,1370 1318,1356 1316,1332 1318,1309 1329,1296 1364,1260 1394,1218 1415,1200 1445,1188 1501,1187" />
+			</g>
+			<g id="car side0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1303,1185 1303,1487 1742,1487 1742,1185" />
+			</g>
+			<g id="car side1">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="766,1318 771,1260 796,1215 834,1182 884,1174 962,1169 1030,1197 1043,1218 1061,1218 1073,1220 1071,1235 1106,1256 1106,1289 1101,1299 1101,1319 1087,1326 1068,1326 1059,1308 1005,1314 1000,1331 988,1346 963,1346 952,1341 947,1322 821,1332 816,1352 788,1356 780,1346" />
+			</g>
+			<g id="car side1_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="766,1169 766,1355 1105,1355 1105,1169" />
+			</g>
+		</g>
+		<g id="trees">
+			<g id="trees0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1792,1085 1664,1128 1591,1115 1445,1067 1365,1067 1304,1048 1286,1213 1286,1042 1268,1042 1219,1061 1176,1024 1091,945 957,902 939,963 926,1061 933,1158 914,1158 914,1158 914,1085 914,1085 914,981 914,981 890,963 829,981 853,878 774,774 774,725 841,695 975,652 1030,536 1079,567 1164,542 1201,549 1207,482 1274,555 1280,475 1298,573 1329,488 1359,585 1396,610 1414,634 1414,561 1518,670 1560,798 1652,859 1719,872 1688,786 1762,835 1749,756 1701,689 1725,652 1743,579 1792,634 1804,622 1804,622 1841,585 1883,646 1932,664 1981,658 1993,701 1993,774 1981,866 1993,902 1975,975 2011,1030 1957,1061 1938,1085 1908,1128 1896,1128 1896,1176 1914,1128 1914,1128 1859,1128" />
+			</g>
+			<g id="trees0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="774,475 774,1212 2010,1212 2010,475" />
+			</g>
+		</g>
+		<g id="sidewalk">
+			<g id="sidewalk0">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="1852,1189 1751,1362 1658,1540 1609,1613 1585,1686 1621,1734 1799,1799 2111,1832 2560,1848 2555,1650 2252,1658 2208,1593 2139,1561 2058,1557 2014,1383 2009,1302 1973,1201 1929,1180" />
+			</g>
+			<g id="sidewalk0_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="1585,1180 1585,1847 2559,1847 2559,1180" />
+			</g>
+			<g id="sidewalk1">
+				<polygon style="stroke:#fff000;stroke-width:2;fill:none;"
+					points="5,1492 772,1353 1309,1256 1200,1241 1111,1259 725,1306 303,1359 188,1392 26,1418 5,1433" />
+			</g>
+			<g id="sidewalk1_br">
+				<polygon style="stroke:#0000ff;stroke-width:2;fill:none;"
+					points="5,1241 5,1491 1308,1491 1308,1241" />
+			</g>
+		</g>
+		<g id="sift_vectors">
+			<g id="sift_0">
+				<line y2="1319" style="stroke:#fff000;stroke-width:1;fill:none;"
+					x1="844" x2="846" y1="1271" />
+				<line y2="1311" style="stroke:#fff000;stroke-width:1;fill:none;"
+					x1="846" x2="853" y1="1319" />
+				<line y2="1312" style="stroke:#fff000;stroke-width:1;fill:none;"
+					x1="846" x2="839" y1="1319" />
+			</g>
+			<g id="sift_1">
+				<line y2="1344" style="stroke:#fff000;stroke-width:1;fill:none;"
+					x1="1490" x2="1459" y1="1344" />
+				<line y2="1348" style="stroke:#fff000;stroke-width:1;fill:none;"
+					x1="1459" x2="1464" y1="1344" />
+				<line y2="1339" style="stroke:#fff000;stroke-width:1;fill:none;"
+					x1="1459" x2="1464" y1="1344" />
+			</g>
+		</g>
+	</g>
+</svg>

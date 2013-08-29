@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/LabelMeWorkbench/!svn/ver/49/trunk/src/net/trevize/labelme/lucene
+END
+LuceneLabelMeSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/LabelMeWorkbench/!svn/ver/48/trunk/src/net/trevize/labelme/lucene/LuceneLabelMeSearcher.java
+END
+InstanceSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/LabelMeWorkbench/!svn/ver/39/trunk/src/net/trevize/labelme/lucene/InstanceSearcher.java
+END
+LuceneLabelMeDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/LabelMeWorkbench/!svn/ver/47/trunk/src/net/trevize/labelme/lucene/LuceneLabelMeDocument.java
+END
+LuceneLabelMeIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/LabelMeWorkbench/!svn/ver/49/trunk/src/net/trevize/labelme/lucene/LuceneLabelMeIndexer.java
+END
